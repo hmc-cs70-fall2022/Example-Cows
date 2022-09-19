@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+
+# Run with: python3 build.py
+
 from os import system
 
 # run a command on the system

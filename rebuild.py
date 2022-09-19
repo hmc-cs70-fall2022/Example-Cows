@@ -1,3 +1,7 @@
+#!/usr/bin/python3
+
+# Run with: python3 rebuild.py
+
 from os.path import getmtime, exists
 from os import system
 
